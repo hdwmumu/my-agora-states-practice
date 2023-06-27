@@ -6,6 +6,17 @@
 
 
 #3. 팀원소개
+###Back-end
+| 이기쁨<br>(BE,팀장) | 김리나<br>(BE) | 이명규<br>(BE) | 백도담<br>(BE) |
+| :---: | :---: | :---: | :---: |
+| 이기쁨(BE,팀장) | 유지원(FE,부팀장) | Redux toolkit | Styled-<br>Components | esLint | Prettier |
+
+###Front-end
+| 유지원<br>(FE,부팀장) | 김민기<br>(FE) | 허금희<br>(FE) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 이기쁨(BE,팀장) | 유지원(FE,부팀장) | Redux toolkit | Styled-<br>Components | esLint | Prettier |
+![Uploading 스크린샷 2023-06-15 13.39.51.png…]()
+![2194362225](https://github.com/hdwmumu/my-agora-states-practice/assets/121214030/1dde3f5a-6da4-4f59-8b3d-d3985bb4d9ca)
 
 
 #4. 사용기술스택

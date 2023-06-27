@@ -9,9 +9,9 @@
 
 
 #4. 사용기술스택
-| JavaScript | React | react router dom | Redux toolkit | axios | Styled-<br>Components | esLint | Prettier |
+| JavaScript | React | Redux toolkit | axios | Styled-<br>Components | esLint | Prettier |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src ="https://t1.daumcdn.net/cfile/tistory/2149683A58CA6BF313" width="80"> | <img src="https://camo.githubusercontent.com/cbb0ed4ed73eb0bdf880019fe4fd13e0e0b0812435f11ac0d920c8f523a8d8d0/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" width="80"> | <img src="https://camo.githubusercontent.com/b55c889cdac7759f0e61882c5b533d701ab8bd7a7c8153d824abe52d28ddc5a9/68747470733a2f2f7374796c65642d636f6d706f6e656e74732e636f6d2f6c6f676f2e706e67" width="80"> |
+| <img src ="https://t1.daumcdn.net/cfile/tistory/2149683A58CA6BF313" width="80"> | <img src="https://camo.githubusercontent.com/cbb0ed4ed73eb0bdf880019fe4fd13e0e0b0812435f11ac0d920c8f523a8d8d0/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" width="80"> | <img src="https://blog.kakaocdn.net/dn/bPZYdy/btqZDPL6LOM/cnT3tT7MBvCr7IBqr7yce1/img.png" width="80">| <img src="https://camo.githubusercontent.com/b55c889cdac7759f0e61882c5b533d701ab8bd7a7c8153d824abe52d28ddc5a9/68747470733a2f2f7374796c65642d636f6d706f6e656e74732e636f6d2f6c6f676f2e706e67" width="80"> | <img src="https://camo.githubusercontent.com/e7eb6839f0d42fffcd7435133609f4fe6a2cad787439321d809c273d66ac4c77/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f65736c696e742d69636f6e2e737667" width="80"> | <img src="https://camo.githubusercontent.com/82935f72bd8f7a84991ceeb91cba325f0ae3b00f7fb2af42da60a81d3ff631b4/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f70726574746965722d69636f6e2e737667" width="80"> |
 
 #5. 구현기능
 

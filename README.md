@@ -12,8 +12,9 @@
 
 
 ###Front-end
+
 | 유지원<br>(FE,부팀장) | 김민기<br>(FE) | 허금희<br>(FE) |
-| :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 |  |  | <img src="https://github.com/hdwmumu/my-agora-states-practice/assets/121214030/aa87a499-2ee7-49de-88cd-fadaf91cdc42" width="100">
  |
 
